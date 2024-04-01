@@ -1,0 +1,6 @@
+# action.yml
+name: 'Nitro Enclave SDK DEV Docker Action'
+description: 'provide environment for Nitro Enclave SDK DEV'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
